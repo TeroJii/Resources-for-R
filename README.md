@@ -16,6 +16,9 @@ Some online resources for learning R.
 
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
 
+## Package development
+
+- [R Packages](https://r-pkgs.org/)
 
 ## Advanced
 

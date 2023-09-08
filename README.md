@@ -10,6 +10,8 @@ Some online resources for learning R.
 
 - [Advanced Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-2/)
 
+- [Deep Learning and Scientific Computing with R torch](https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/)
+
 ## Shiny
 
 - [Mastering Shiny](https://mastering-shiny.org/)

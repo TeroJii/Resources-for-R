@@ -27,3 +27,9 @@ Some online resources for learning R.
 ## Advanced
 
 - [Advanced R](https://adv-r.hadley.nz/index.html)
+
+## NLP
+
+- [Tidy Text Mining with R](https://www.tidytextmining.com/)
+
+- [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)

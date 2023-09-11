@@ -20,11 +20,11 @@ Some online resources for learning R.
 
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
 
-## Package development
+## Miscellaneous
+
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/)
 
 - [R Packages](https://r-pkgs.org/)
-
-## Advanced
 
 - [Advanced R](https://adv-r.hadley.nz/index.html)
 

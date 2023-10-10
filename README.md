@@ -21,6 +21,8 @@ Some online resources for learning R.
 - [R Packages](https://r-pkgs.org/)
 - [Advanced R](https://adv-r.hadley.nz/index.html)
 - [Deep R Programming](https://deepr.gagolewski.com/)
+- [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
+- [The Art of R Programming](https://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf)
 
 ## NLP
 

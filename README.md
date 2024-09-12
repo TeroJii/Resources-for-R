@@ -10,6 +10,10 @@ Some online resources for learning R.
 - [Deep Learning and Scientific Computing with R torch](https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/)
 - [Tidy Modelling with R](https://www.tmwr.org/)
 
+## Data visualization
+
+- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+
 ## Shiny & JavaScript
 
 - [Mastering Shiny](https://mastering-shiny.org/)
